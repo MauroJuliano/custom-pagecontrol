@@ -13,6 +13,7 @@
 		9D88540226A4F49B00C9396A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D88540026A4F49B00C9396A /* Main.storyboard */; };
 		9D88540426A4F49C00C9396A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D88540326A4F49C00C9396A /* Assets.xcassets */; };
 		9D88540726A4F49C00C9396A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D88540526A4F49C00C9396A /* LaunchScreen.storyboard */; };
+		9D88540F26A4F4BA00C9396A /* SnapPageControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D88540E26A4F4BA00C9396A /* SnapPageControll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9D88540326A4F49C00C9396A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D88540626A4F49C00C9396A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D88540826A4F49C00C9396A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D88540E26A4F4BA00C9396A /* SnapPageControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapPageControll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9D8853FA26A4F49B00C9396A /* AppDelegate.swift */,
 				9D8853FC26A4F49B00C9396A /* SceneDelegate.swift */,
 				9D8853FE26A4F49B00C9396A /* ViewController.swift */,
+				9D88540E26A4F4BA00C9396A /* SnapPageControll.swift */,
 				9D88540026A4F49B00C9396A /* Main.storyboard */,
 				9D88540326A4F49C00C9396A /* Assets.xcassets */,
 				9D88540526A4F49C00C9396A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D8853FF26A4F49B00C9396A /* ViewController.swift in Sources */,
+				9D88540F26A4F4BA00C9396A /* SnapPageControll.swift in Sources */,
 				9D8853FB26A4F49B00C9396A /* AppDelegate.swift in Sources */,
 				9D8853FD26A4F49B00C9396A /* SceneDelegate.swift in Sources */,
 			);
