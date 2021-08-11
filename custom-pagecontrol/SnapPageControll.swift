@@ -22,7 +22,7 @@ import UIKit
         return Int(round(progress))
     }
     
-    @IBInspectable open var snapSize: CGSize = CGSize(width: 20, height: 2.5) {
+    open var snapSize: CGSize = CGSize(width: 20, height: 2.5) {
         didSet {
             
         }
